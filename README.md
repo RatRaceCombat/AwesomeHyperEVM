@@ -18,7 +18,6 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
   - [DeFi](#-defi)
   - [Analytics & Trading Tools](#-analytics--trading-tools)
   - [Infra & Tooling](#-infra--tooling)
-  - [Games](#-games)
   - [Meme Coins & Fun](#-meme-coins--fun)
 - [Integrations](#-integrations)
 - [Community](#-community)
@@ -115,12 +114,6 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [Spectral](https://spectral.finance/)          | On-chain reputation  | [Docs](https://docs.spectrallabs.xyz/)       |
 | [HyBridge](https://hybridge.xyz/)              | Liquidity layer      | X          |
 
-### 🎮 Games
-
-| Project                                         | Description                                                        | Docs/Links |
-| :---------------------------------------------- | :----------------------------------------------------------------- | :--------- |
-| [Rat Race Combat](https://ratracecombat.com)    | Free browser brawler (phone & PC); $RAT on HyperCore and HyperEVM  | [X](https://x.com/ratracecombat) |
-
 ### 🐶 Meme Coins & Fun
 
 | Token/Project                   | Description                             |
@@ -128,6 +121,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | JEFF, RUGMAN, SYLVY, CATBAL, YETI | Community coins native to HyperEVM      |
 | HyperGold, POINTS, MUNCH, POPOTOK | Airdrop-eligible or high-volume memecoins |
 | FANDA, KOBE, ATERNUM, LIQIUNA   | Emerging memecoins from early traders   |
+| [RAT](https://ratracecombat.com) | Token of Rat Race Combat, a free browser brawler with rats in suits ([X](https://x.com/ratracecombat)) |
 
 ---
 
