@@ -18,6 +18,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
   - [DeFi](#-defi)
   - [Analytics & Trading Tools](#-analytics--trading-tools)
   - [Infra & Tooling](#-infra--tooling)
+  - [Games](#-games)
   - [Meme Coins & Fun](#-meme-coins--fun)
 - [Integrations](#-integrations)
 - [Community](#-community)
@@ -113,6 +114,12 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [Omni Network](https://omni.network/)          | Modular chain infra  | [Docs](https://docs.omni.network/)       |
 | [Spectral](https://spectral.finance/)          | On-chain reputation  | [Docs](https://docs.spectrallabs.xyz/)       |
 | [HyBridge](https://hybridge.xyz/)              | Liquidity layer      | X          |
+
+### 🎮 Games
+
+| Project                                         | Description                                                        | Docs/Links |
+| :---------------------------------------------- | :----------------------------------------------------------------- | :--------- |
+| [Rat Race Combat](https://ratracecombat.com)    | Free browser brawler (phone & PC); $RAT on HyperCore and HyperEVM  | [X](https://x.com/ratracecombat) |
 
 ### 🐶 Meme Coins & Fun
 
